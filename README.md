@@ -1,5 +1,33 @@
-## Hi there 👋
+# About Me🧕
+<img width="1584" height="396" alt="Beige and White Vintage History Lesson Education Presentation (Neues LinkedIn-Banner)" src="https://github.com/user-attachments/assets/36fa5e95-e6a3-4ce2-aa6b-e4ce3680004a" />
 
+
+## Hi, I'm Meliona!👋
+
+I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Master’s degree in Data Science. I'm passionate about leveraging data to address business challenges and drive value through analytics. My background bridges technical skills and business understanding, which helps me craft impactful solutions in real-world settings.
+- Analyzing and visualizing data with Python and Excel
+- Building insightful dashboards with Power BI and Tableau
+- Performing ad-hoc reporting and supporting decision-making with actionable insights
+- Optimizing workflows and supporting cross-team projects and digitalization projects
+
+## 📚 Portfolio Projects
+Explore the projects I’ve worked on—each one is focused on real business challenges, data-driven solutions, and continuous learning.
+- Data science and analytics
+- Business informatics applications
+- HR data management and reporting
+- Time series forecasting and dashboarding
+
+## 🛠️ Skills & Tools
+- Languages: R,	Python, SQL
+- Databases: PostgreSQL, MySQL, Google Sheets, Excel
+- Analytics: Data cleaning, analysis, ad-hoc reporting
+- Visualization: Power BI, Google Data Studio, Tableau, Excel Charts
+- Soft Skills: Teamwork, communication, problem-solving
+
+## 🤝 Let’s Connect
+
+- Hire me on [Fiverr](https://www.fiverr.com/s/Eg6mQe8)
+- [LinkedIn](http://linkedin.com/in/meliona-meliona)
 <!--
 **Melionaa/melionaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
