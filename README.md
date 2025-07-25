@@ -1,10 +1,11 @@
 # About Me🧕
-<img width="1584" height="396" alt="Beige and White Vintage History Lesson Education Presentation (Neues LinkedIn-Banner)" src="https://github.com/user-attachments/assets/36fa5e95-e6a3-4ce2-aa6b-e4ce3680004a" />
+<img width="1584" height="396" alt="GIthub background" src="https://github.com/user-attachments/assets/3774e127-b534-4e5f-9780-fb792090cf11" />
+
 
 
 ## Hi, I'm Meliona!👋
 
-I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Master’s degree in Data Science. I'm passionate about leveraging data to address business challenges and drive value through analytics. My background bridges technical skills and business understanding, which helps me craft impactful solutions in real-world settings.
+I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Master’s degree in Digital Business Management. I'm passionate about leveraging data to address business challenges and drive value through analytics. My background bridges technical skills and business understanding, which helps me craft impactful solutions in real-world settings.
 - Analyzing and visualizing data with Python and Excel
 - Building insightful dashboards with Power BI and Tableau
 - Performing ad-hoc reporting and supporting decision-making with actionable insights
@@ -19,9 +20,9 @@ Explore the projects I’ve worked on—each one is focused on real business cha
 
 ## 🛠️ Skills & Tools
 - Languages: R,	Python, SQL
-- Databases: PostgreSQL, MySQL, Google Sheets, Excel
-- Analytics: Data cleaning, analysis, ad-hoc reporting
-- Visualization: Power BI, Google Data Studio, Tableau, Excel Charts
+- Databases: MySQL, Google Sheets, Excel
+- Analytics: Data cleaning and analysis
+- Visualization: Power BI, Tableau, Excel Charts,  Google Data Studio
 - Soft Skills: Teamwork, communication, problem-solving
 
 ## 🤝 Let’s Connect
