@@ -5,8 +5,8 @@
 
 ## Hi, I'm Meliona!👋
 
-I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Master’s degree in Digital Business Management. I'm passionate about leveraging data to address business challenges and drive value through analytics. My background bridges technical skills and business understanding, which helps me craft impactful solutions in real-world settings.
-- Analyzing and visualizing data with Python and Excel
+I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Master’s degree in Data Science. I'm passionate about leveraging data to address business challenges and drive value through analytics. My background bridges technical skills and business understanding, which helps me craft impactful solutions in real-world settings.
+- Cleaning, Analyzing, and visualizing data with Python, SQL, and Excel
 - Building insightful dashboards with Power BI and Tableau
 - Performing ad-hoc reporting and supporting decision-making with actionable insights
 - Optimizing workflows and supporting cross-team projects and digitalization projects
@@ -22,7 +22,7 @@ Explore the projects I’ve worked on—each one is focused on real business cha
 - Languages: R,	Python, SQL
 - Databases: MySQL, Google Sheets, Excel
 - Analytics: Data cleaning and analysis
-- Visualization: Power BI, Tableau, Excel Charts,  Google Data Studio
+- Visualization: Power BI, Tableau, Excel Charts
 - Soft Skills: Teamwork, communication, problem-solving
 
 ## 🤝 Let’s Connect
