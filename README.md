@@ -27,7 +27,6 @@ Explore the projects I’ve worked on—each one is focused on real business cha
 
 ## 🤝 Let’s Connect
 
-- Hire me on [Fiverr](https://www.fiverr.com/s/Eg6mQe8)
 - [LinkedIn](http://linkedin.com/in/meliona-meliona)
 <!--
 **Melionaa/melionaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
