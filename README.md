@@ -11,13 +11,6 @@ I am a graduate in Business Informatics (B.Sc.) and am currently pursuing my Mas
 - Performing ad-hoc reporting and supporting decision-making with actionable insights
 - Optimizing workflows and supporting cross-team projects and digitalization projects
 
-## 📚 Portfolio Projects
-Explore the projects I’ve worked on—each one is focused on real business challenges, data-driven solutions, and continuous learning.
-- Data science and analytics
-- Business informatics applications
-- HR data management and reporting
-- Time series forecasting and dashboarding
-
 ## 🛠️ Skills & Tools
 - Languages: R,	Python, SQL
 - Databases: MySQL, Google Sheets, Excel
